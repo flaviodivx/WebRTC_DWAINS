@@ -453,7 +453,7 @@ class WebRTCCamera extends HTMLElement {
                 margin: auto;
                 overflow: hidden;
                 width: 100%;
-                height: 100%;
+               # height: 100%;
                 position: relative;
             }
             #video, .fix-safari {
@@ -488,7 +488,7 @@ class WebRTCCamera extends HTMLElement {
             }
             ha-icon {
                 color: white;
-                position: absolute;
+               # position: absolute;
                 cursor: pointer;
             }
             .pause {
