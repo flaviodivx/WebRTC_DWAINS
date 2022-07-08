@@ -453,7 +453,7 @@ class WebRTCCamera extends HTMLElement {
                 margin: auto;
                 overflow: hidden;
                 width: 100%;
-                /* height: 100%; */
+                height: 100%;
                 position: relative;
             }
             #video, .fix-safari {
@@ -488,7 +488,7 @@ class WebRTCCamera extends HTMLElement {
             }
             ha-icon {
                 color: white;
-                /* position: absolute; */
+                position: absolute;
                 cursor: pointer;
             }
             .pause {
@@ -627,7 +627,7 @@ class WebRTCCamera extends HTMLElement {
             <div class="box">
                 <div class="header"></div>
             </div>
-           <!-- <ha-icon class="state"></ha-icon> -->
+            <ha-icon class="state"></ha-icon>
         `;
         this.appendChild(card);
 
