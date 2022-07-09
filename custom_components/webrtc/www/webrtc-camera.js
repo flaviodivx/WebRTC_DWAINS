@@ -627,7 +627,7 @@ class WebRTCCamera extends HTMLElement {
             <div class="box">
                 <div class="header"></div>
             </div>
-            <!-- <ha-icon class="state"></ha-icon> -->
+            <ha-icon class="state"></ha-icon>
         `;
         this.appendChild(card);
 
