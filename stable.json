@@ -14,8 +14,8 @@
     "raspberrypi2": "2022.6.6",
     "raspberrypi3": "2022.6.6",
     "raspberrypi3-64": "2022.6.6",
-    "raspberrypi4": "2022.6.6",
-    "raspberrypi4-64": "2022.6.6",
+    "raspberrypi4": "2022.6.7",
+    "raspberrypi4-64": "2022.6.7",
     "yellow": "2022.6.6",
     "tinker": "2022.6.6",
     "odroid-c2": "2022.6.6",
@@ -63,7 +63,7 @@
     "multicast": "homeassistant/{arch}-hassio-multicast"
   },
   "images": {
-    "core": "ghcr.io/home-assistant/raspberrypi4-64-homeassistant:2022.6.6",
+    "core": "ghcr.io/home-assistant/raspberrypi4-64-homeassistant:2022.6.7",
     "supervisor": "ghcr.io/home-assistant/{arch}-hassio-supervisor",
     "cli": "ghcr.io/home-assistant/{arch}-hassio-cli",
     "audio": "ghcr.io/home-assistant/{arch}-hassio-audio",
