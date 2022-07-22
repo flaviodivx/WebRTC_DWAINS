@@ -451,7 +451,7 @@ class WebRTCCamera extends HTMLElement {
                 justify-content: center;
                 flex-direction: column;
                 margin: auto;
-                /*overflow: hidden;*/
+               /* overflow: hidden; */
                 width: 100%;
                /* height: 100%; */
                 position: relative;
